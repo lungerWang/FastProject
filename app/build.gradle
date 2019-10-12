@@ -60,5 +60,7 @@ dependencies {
     annotationProcessor 'com.jakewharton:butterknife-compiler:10.0.0'
 
     implementation 'org.greenrobot:eventbus:3.1.1'
+    //沉浸式实现（https://github.com/gyf-dev/ImmersionBar）
+    implementation 'com.gyf.immersionbar:immersionbar:3.0.0'
 
 }
