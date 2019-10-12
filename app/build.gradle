@@ -59,8 +59,15 @@ dependencies {
     implementation 'com.jakewharton:butterknife:10.0.0'
     annotationProcessor 'com.jakewharton:butterknife-compiler:10.0.0'
 
+    //event bus
     implementation 'org.greenrobot:eventbus:3.1.1'
+
     //沉浸式实现（https://github.com/gyf-dev/ImmersionBar）
     implementation 'com.gyf.immersionbar:immersionbar:3.0.0'
+
+    //权限工具
+    implementation ('com.yanzhenjie.permission:support:2.0.1'){
+        exclude group: "com.android.support"
+    }
 
 }
