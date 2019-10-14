@@ -3,4 +3,22 @@
     <color name="colorPrimary">#008577</color>
     <color name="colorPrimaryDark">#00574B</color>
     <color name="colorAccent">#D81B60</color>
+
+    <color name="bar_color">#000000</color>
+    <color name="app_red">#f82222</color>
+    <color name="head_divider">#d6d6d6</color>
+    <color name="divider">#e8e8e8</color>
+    <color name="txt_dark">#979797</color>
+    <color name="bg_dark">#f7f6f6</color>
+    <color name="text_black">#333333</color>
+
+
+    <!-- QRCode scanner color begin -->
+    <color name="viewfinder_mask">#60000000</color>
+    <color name="result_view">#B0000000</color>
+    <color name="viewfinder_frame">#90FFFFFF</color>
+    <color name="result_point_color">#C0FFFF00</color>
+    <color name="laser_color">#0F0</color>
+    <color name="corner_color">#00FF00</color>
+    <!-- QRCode scanner color end -->
 </resources>
